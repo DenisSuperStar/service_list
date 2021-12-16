@@ -1,0 +1,4 @@
+.cm-card-container__item-card {
+    display: flex;
+    flex-wrap: wrap;
+}
